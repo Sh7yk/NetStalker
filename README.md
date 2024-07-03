@@ -11,6 +11,7 @@ ___
 - `target size` - the program will run until it receives content of at least the specified size (Mb)
 ___
 ## Install
+- `git clone https://github.com/Sh7yk/NetStalker.git`
 - `pip install -r requirenments.txt`
 
 ## Use
